@@ -1,4 +1,5 @@
 # autonomous-rc-vehicle
-This repository contains the embedded and application-level code used in an autonomous RC vehicle project. A Raspberry Pi handles high-level perception and control logic, while a Raspberry Pi Pico is used for real-time motor control and PWM generation.
+This repository documents my role in a collaborative autonomous RC vehicle project. 
+Full source code is maintained in the team repository link in Notion.
 
-Full project overview, hardware design, and testing details are documented in the project portfolio.
+My contributions include Raspberry Pi Pico motor control firmware, embedded system integration, PCB design, and hardware validation.
